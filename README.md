@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sumedhachugh
 - 👀 I’m PhD Research scholar at IIITD working on explainable AI
-- 🌱 I’m currently working on explainable AI
+- 🌱 I’m interested in Bayesian ML
 - 📫 Reach me @ sumedhac@iiitd.ac.in
