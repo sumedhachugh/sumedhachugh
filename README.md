@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @sumedhachugh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sumedhachugh/sumedhachugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m PhD Research scholar at IIITD working on explainable AI
+- 🌱 I’m currently working on explainable AI
+- 📫 Reach me @ sumedhac@iiitd.ac.in
